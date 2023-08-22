@@ -1,2 +1,1 @@
-# MYSQL_Python
-Mysql in python 
+# python for Data Science
